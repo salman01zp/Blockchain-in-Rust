@@ -1,2 +1,2 @@
-# SimpleBlockchain
-Simple blockchain implementation in Rust
+# Simple Blockchain implemntation in rust
+
